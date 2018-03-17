@@ -1,2 +1,10 @@
 # pingershv2
-Tanda Pingers Challenger in Haskell V2
+
+```bash
+stack setup
+stack build
+stack exec pingershv2-exe
+
+# In another terminal
+ruby pings.rb
+```
